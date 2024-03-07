@@ -1,7 +1,6 @@
 ## Visual Computing:
 ## OpenGL - 3D Object Animation: Keyboard-Controlled Transformations with Light Reflection"
 
-![poqwq](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/1cde3845-67f2-47cb-bae7-a115f4deaaaa)
 ![wqw](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/04876526-9aa3-4e53-a9b4-c0128ce8b7ab)
 
 
@@ -9,7 +8,8 @@ The appearance of the object may differ from the initial image upon first runnin
 
 ![pqwqwq](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/4627c2c7-b660-4e41-ad14-b0ccef204155)
 
-The Same applies to the light calculations and reflections. These could be also changed by you to fit 
+The Same applies to the light calculations and reflections. These could be also changed by you to fit. 
+I opted for a different image that isn't mine to enhance the visibility of the reflection, as the colors and lighting intensity seemed more conducive to highlighting the reflective properties. Feel free to adjust the colors and brightness to better suit your preferences.*
 
 
 ## Keyboard Controls
