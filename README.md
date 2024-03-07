@@ -1,5 +1,5 @@
 ## Visual Computing:
-## OpenGL - 3D Object Animation: Keyboard-Controlled Transformations with Light Reflection"
+## OpenGL - 3D Object Animation: Keyboard-Controlled Transformations with Light Reflection
 
 ![wqw](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/04876526-9aa3-4e53-a9b4-c0128ce8b7ab)
 
