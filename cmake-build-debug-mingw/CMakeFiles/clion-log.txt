@@ -1,0 +1,40 @@
+"C:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" C:\Users\Boull\OneDrive\Desktop\VC\OpenGL_Praktikum_Framework\OpenGL_Praktikum
+-- The CXX compiler identification is unknown
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - failed
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2021.2.3/bin/cmake/win/share/cmake-3.20/Modules/CMakeTestCXXCompiler.cmake:59 (message):
+  The C++ compiler
+
+    "C:/MinGW/bin/g++.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/Boull/OneDrive/Desktop/VC/OpenGL_Praktikum_Framework/OpenGL_Praktikum/cmake-build-debug-mingw/CMakeFiles/CMakeTmp
+    
+    Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_2e91a/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_2e91a.dir\build.make CMakeFiles/cmTC_2e91a.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/Boull/OneDrive/Desktop/VC/OpenGL_Praktikum_Framework/OpenGL_Praktikum/cmake-build-debug-mingw/CMakeFiles/CMakeTmp'
+    Building CXX object CMakeFiles/cmTC_2e91a.dir/testCXXCompiler.cxx.obj
+    C:\MinGW\bin\g++.exe    -o CMakeFiles\cmTC_2e91a.dir\testCXXCompiler.cxx.obj -c C:\Users\Boull\OneDrive\Desktop\VC\OpenGL_Praktikum_Framework\OpenGL_Praktikum\cmake-build-debug-mingw\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+    g++.exe: error: CreateProcess: No such file or directory
+    CMakeFiles\cmTC_2e91a.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_2e91a.dir/testCXXCompiler.cxx.obj' failed
+    mingw32-make.exe[1]: *** [CMakeFiles/cmTC_2e91a.dir/testCXXCompiler.cxx.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/Boull/OneDrive/Desktop/VC/OpenGL_Praktikum_Framework/OpenGL_Praktikum/cmake-build-debug-mingw/CMakeFiles/CMakeTmp'
+    Makefile:126: recipe for target 'cmTC_2e91a/fast' failed
+    mingw32-make.exe: *** [cmTC_2e91a/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Boull/OneDrive/Desktop/VC/OpenGL_Praktikum_Framework/OpenGL_Praktikum/cmake-build-debug-mingw/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Boull/OneDrive/Desktop/VC/OpenGL_Praktikum_Framework/OpenGL_Praktikum/cmake-build-debug-mingw/CMakeFiles/CMakeError.log".
