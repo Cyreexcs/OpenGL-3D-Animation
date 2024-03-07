@@ -3,3 +3,5 @@
 *.hpp linguist-language=C++
 *.s linguist-detectable=false
 *.asm linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
+Makefile linguist-detectable=false
