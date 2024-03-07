@@ -2,7 +2,7 @@
 ## OpenGL - 3D Object Animation: Keyboard-Controlled Transformations with Light Reflection"
 
 ![poqwq](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/1cde3845-67f2-47cb-bae7-a115f4deaaaa)
-![image](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/62e88527-dabb-4a9a-9f2d-7fdb005f70e3)
+![wqw](https://github.com/Cyreexcs/OpenGL-3D-Animation/assets/70235827/04876526-9aa3-4e53-a9b4-c0128ce8b7ab)
 
 
 The appearance of the object may differ from the initial image upon first running the application. To achieve the desired appearance, adjustments to the transformations, including translation, rotation, and scaling variables, may be necessary for each component. Similarly, color adjustments can be made within the fragment shader to match the desired outcome.
